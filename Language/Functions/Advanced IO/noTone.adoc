@@ -1,8 +1,8 @@
 ---
-title: noTone()
+title: title
 title_expanded: ""
-categories: [ "Functions" ]
-subCategories: [ "Entradas e Saídas Avançadas" ]
+categories: [ "Foo" ]
+subCategories: [ "Entradas e Saídas Analógicas" ]
 aliases: [ /language/functions/advanced-io/noTone/ ]
 ---
 
